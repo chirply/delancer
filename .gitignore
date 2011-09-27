@@ -1,0 +1,15 @@
+.bundle
+db/*.sqlite3*
+log/*.log
+*.log
+tmp/**/*
+tmp/*
+doc/api
+doc/app
+public/system
+public/assets
+*.swp
+*~
+.DS_Store
+webrat.log
+db/sample
